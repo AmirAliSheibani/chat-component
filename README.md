@@ -41,3 +41,10 @@ src/components/Chat.jsx — کامپوننت چت
 src/app.jsx — ریشه برنامه
 src/index.css — فایل CSS با Tailwind
 ```
+## ScreenShots
+
+### نمایش ارسال پیام
+
+<img width="1920" height="1080" alt="chat" src="https://github.com/user-attachments/assets/8b56e763-0580-4610-9f54-c20d6f5d38bc" />
+
+
